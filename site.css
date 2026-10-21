@@ -25,3 +25,5 @@
 .game-update-details p{font-size:17px;max-width:80ch}
 .game-update-details code{overflow-wrap:anywhere}
 @media(max-width:760px){.current-source-list .source-links a{display:inline-block;min-height:44px;padding-block:6px}.game-update-details summary{min-height:44px}}
+
+.rom-wip{padding:14px 18px;border-left:4px solid #7a4a18;background:#f6e7a7;color:#203c35;border-radius:0 12px 12px 0}
