@@ -15,7 +15,7 @@ The completed Caliper routes derive reduction time, stored-code and total-memory
 
 Eight exact source-game equalities cover the seven security games and Proximity's collision event. Recorded local verification for this revision passed 2,008 Lean targets (1,784 library modules and 224 regression modules). Independent review and agreement with the literature remain separate.
 
-Curve-specific primitive implementations and encoding contracts remain explicit. Conventional-machine and flat-memory adequacy remain separate refinements. Schnorr ROM has checked passes, fork-point selection, [retained restart/second execution](https://github.com/zksecurity/signature-security-lean/blob/01f476f24908a537a9309918150776a2e8de97ba/Signatures/Runtime/Caliper/SchnorrROMReplaySecond.lean#L15), and resource bounds. Fresh-challenge rejection, the second-slot check, extraction and public ROM statement migration remain to be assembled.
+Curve-specific primitive implementations and encoding contracts remain explicit. Conventional-machine and flat-memory adequacy remain separate refinements. Schnorr ROM has checked passes, fork-point selection, [retained restart/second execution](https://github.com/zksecurity/signature-security-lean/blob/01f476f24908a537a9309918150776a2e8de97ba/Proofs/Runtime/Caliper/SchnorrROMReplaySecond.lean#L15), and resource bounds. Fresh-challenge rejection, the second-slot check, extraction and public ROM statement migration remain to be assembled.
 
 ## Agent contributions
 
