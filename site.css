@@ -26,3 +26,5 @@
 .game-update-details code{overflow-wrap:anywhere}
 @media(max-width:760px){.current-source-list .source-links a{display:inline-block;min-height:44px;padding-block:6px}.game-update-details summary{min-height:44px}}
 
+
+pre.citation{padding:14px 18px;overflow-x:auto;background:#f4f7f2;border-radius:12px;font-size:0.9rem;line-height:1.45}
