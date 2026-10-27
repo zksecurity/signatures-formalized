@@ -25,7 +25,8 @@ Cite the repository at the commit you read.
   year    = {2026},
   url     = {https://github.com/zksecurity/signature-security-lean},
   version = {main, commit 2dbb8c6},
-  note    = {Lean 4 formalization over VCVio. Cite the commit you read.}
+  note    = {Machine-checked EUF-CMA bounds with explicit reduction budgets,
+             in the random-oracle and algebraic group models. Cite the commit you read.}
 }
 ```
 
